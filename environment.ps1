@@ -18,6 +18,7 @@ $global:All = @(
     'pip-webui-errors'
     'pip-webui-locations'
     'pip-webui-files'
+    'pip-webui-dashboard'
     'pip-webui-settings'
     'pip-webui-help'
     'pip-webui-all'
