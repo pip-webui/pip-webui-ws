@@ -1,6 +1,7 @@
 /node_modules
 /pip-webui-lib
 /pip-webui-css
+/pip-webui-dashboard
 /pip-webui-services
 /pip-webui-behaviors
 /pip-webui-themes
