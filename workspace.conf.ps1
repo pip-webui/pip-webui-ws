@@ -14,7 +14,6 @@ $VersionControlRepos = @(
     'https://github.com/pip-webui/pip-webui-charts.git'
     'https://github.com/pip-webui/pip-webui-dialogs.git'
     'https://github.com/pip-webui/pip-webui-layouts.git'
-    'https://github.com/pip-webui/pip-webui-split.git'
     'https://github.com/pip-webui/pip-webui-nav.git'
     'https://github.com/pip-webui/pip-webui-errors.git'
     'https://github.com/pip-webui/pip-webui-locations.git'

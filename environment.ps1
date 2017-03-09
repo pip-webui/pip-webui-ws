@@ -13,7 +13,6 @@ $global:All = @(
     'pip-webui-charts'
     'pip-webui-dialogs'
     'pip-webui-layouts'
-    'pip-webui-split'
     'pip-webui-nav'
     'pip-webui-errors'
     'pip-webui-locations'
