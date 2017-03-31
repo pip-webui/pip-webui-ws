@@ -6,7 +6,7 @@ This is a workspace for [Pip.WebUI](https://github.com/pip-webui/pip-webui) HTML
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-lib">pip-webui-lib</a> </td><td> collection of 3rd party libraries other modules depend on </td></tr>
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-css">pip-webui-css</a> </td><td> CSS framework to extend Angular Material styles with animations visual effects </td></tr>
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-services">pip-webui-services</a> </td><td> non-visual services: localization, error handling, sessions, formatting, and more... </td></tr>
-<tr><td> <a href="https://github.com/pip-webui/pip-webui-behaviors">pip-webui-behaviors</a> </td><td> attacable behaviors: infinite scroll, selectable, focusable, drag-and-drop, unsaved changes </td></tr>
+<tr><td> <a href="https://github.com/pip-webui/pip-webui-behaviors">pip-webui-behaviors</a> </td><td> attacable behaviors: infinite scroll, selectable, focusable, shortcuts, drag-and-drop, unsaved changes </td></tr>
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-themes">pip-webui-themes</a> </td><td>support for custom color themes </td></tr>
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-buttons">pip-webui-buttons</a> </td><td> buttons: fabs, action lists, drilldown lists </td></tr>
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-headers">pip-webui-headers</a> </td><td> header styles and controls </td></tr>
@@ -17,7 +17,6 @@ This is a workspace for [Pip.WebUI](https://github.com/pip-webui/pip-webui) HTML
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-charts">pip-webui-charts</a> </td><td>Chart controls: line, bar, pie, scatter and others.... </td></tr>
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-dialogs">pip-webui-dialogs</a> </td><td> standard dialogs: info, confirmation, options, errors </td></tr>
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-layouts">pip-webui-layouts</a> </td><td> application layouts: simple, document, master-detail, tiles, dialog </td></tr>
-<tr><td> <a href="https://github.com/pip-webui/pip-webui-split">pip-webui-split</a> </td><td> split layout to organize complex hierarchical content </td></tr>
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-nav">pip-webui-nav</a> </td><td> navigation mechanisms: appbar and sidenav </td></tr>
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-errors">pip-webui-errors</a> </td><td> error handling pages and controls </td></tr>
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-locations">pip-webui-locations</a> </td><td> location controls </td></tr>
