@@ -36,7 +36,10 @@
   "noAnalyze": true,
   "license": "MIT",
   "private": false,
-  "dependencies": {},
+  "dependencies": {
+    "natives": "^1.1.4",
+    "node-sass": "^4.9.3"
+  },
   "devDependencies": {
     "pip-webui-tasks": "^1.8.0"
   }
