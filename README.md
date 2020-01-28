@@ -9,6 +9,7 @@ This is a workspace for [Pip.WebUI](https://github.com/pip-webui/pip-webui) HTML
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-behaviors">pip-webui-behaviors</a> </td><td> attacable behaviors: infinite scroll, selectable, focusable, shortcuts, drag-and-drop, unsaved changes </td></tr>
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-themes">pip-webui-themes</a> </td><td>support for custom color themes </td></tr>
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-buttons">pip-webui-buttons</a> </td><td> buttons: fabs, action lists, drilldown lists </td></tr>
+<tr><td> <a href="https://github.com/pip-webui/pip-webui-cache">pip-webui-cache</a> </td><td> cache </td></tr>
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-headers">pip-webui-headers</a> </td><td> header styles and controls </td></tr>
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-lists">pip-webui-lists</a> </td><td> data list controls: simple, checks, references, tables </td></tr>
 <tr><td> <a href="https://github.com/pip-webui/pip-webui-dates">pip-webui-dates</a> </td><td>Controls and services to work with dates and times </td></tr>
