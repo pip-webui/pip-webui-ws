@@ -6,6 +6,7 @@ $VersionControlRepos = @(
     'https://github.com/pip-webui/pip-webui-behaviors.git'
     'https://github.com/pip-webui/pip-webui-themes.git'
     'https://github.com/pip-webui/pip-webui-buttons.git'
+    'https://github.com/pip-webui/pip-webui-cache.git'
     'https://github.com/pip-webui/pip-webui-headers.git'
     'https://github.com/pip-webui/pip-webui-lists.git'
     'https://github.com/pip-webui/pip-webui-dates.git'

@@ -1,6 +1,6 @@
 {
   "name": "pip-webui-ws",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "author": "Conceptual Vision Consulting LLC",
   "description": "Workspace for Pip.WebUI",
   "contributors": [
@@ -37,7 +37,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "natives": "^1.1.4",
+    "natives": "^1.1.6",
     "node-sass": "^4.9.3"
   },
   "devDependencies": {
