@@ -38,7 +38,7 @@
   "private": false,
   "dependencies": {
     "natives": "^1.1.6",
-    "node-sass": "^4.9.3"
+    "node-sass": "^4.13.1"
   },
   "devDependencies": {
     "pip-webui-tasks": "^1.8.0"
